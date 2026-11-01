@@ -1,29 +1,82 @@
-### Hi, I'm Malaya Kumar Swain 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Malaya Kumar Swain: AI Technology Leader · Agentic & Voice AI · Responsible AI" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**AI technology leader · Agentic & Voice AI · Responsible AI · Data platforms** · Bengaluru, India
+<p align="center">
+  <a href="https://www.linkedin.com/in/malayakumarswain"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malayakumarswain-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://malayakumarswain.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-malayakumarswain.com-111827?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Based_in-Bengaluru,_India-FF9933?style=flat-square">
+</p>
 
-I build AI products that have to work in the real world: many Indian languages, low-cost phones and patchy networks, regulated domains, and data that people have a right to control. 21 years across telecom, banking and retail, the last several leading GenAI platforms from first workshop to production.
+### I make frontier AI dependable.
 
-#### 🔭 What I'm building in the open
+Frontier capability is easy to demo and hard to trust. For 21 years I have built the platforms that sit between powerful technology and the people who depend on it: first in banking data and regulation at ANZ, Commonwealth Bank and HSBC, then in GenAI platforms, and now in **agentic, voice-first consumer AI built for 400M+ people across 12+ Indian languages** at Jio Platforms.
 
-| Project | What it does |
-|---|---|
-| [**Vismriti**](https://github.com/Malaya-kumar-swain/vismriti) | DPDP-ready consent, purpose-bound retrieval and right-to-erasure for RAG and AI agents. Signed deletion certificates, Indian PII masking (Aadhaar, PAN, UPI, GSTIN…), MCP server. |
-| *Coming next* | An evaluation bench for Indian-language voice agents: code-mixed speech, 2G/3G latency, task success. |
+I lead the whole system: architecture, product, delivery, security and the teams that build it.
 
-#### 🧠 What I work on
+---
 
-- **Agentic AI:** multi-agent orchestration, MCP tools and skills, agentic RAG, LLM gateways and model routing
-- **Voice AI:** real-time voice pipelines, multilingual and code-mixed speech, latency on constrained networks
-- **Responsible AI:** guardrails, privacy by design, DPDP Act compliance, evaluation
-- **Data platforms:** cloud migrations, master data, Spark, Snowflake, BigQuery, at enterprise scale
+### How I lead
 
-#### 🛠️ Toolbox
+| | |
+|:--|:--|
+| **Trust is architecture, not a feature** | Guardrails, privacy and human-in-the-loop governance are designed in from layer one, never bolted on after launch. |
+| **Latency is a product decision** | A useful signal in two seconds on a 2G phone beats a perfect answer nobody waits for. |
+| **Scale is a team sport** | The hardest system to align is the org chart. I have led 100+ people across vendors, time zones and three continents. |
 
-`Python` · `Google ADK` · `LangChain` · `MCP` · `Qdrant` · `OpenSearch` · `Amazon Bedrock` · `GCP` · `AWS` · `Azure Databricks` · `Spark` · `Kafka` · `LiveKit`
+---
 
-#### 📫 Find me
+### Selected impact
 
-[Portfolio](https://malayakumarswain.com) · [LinkedIn](https://www.linkedin.com/in/malayakumarswain)
+| Platform | Mandate | Outcome |
+|:--|:--|:--|
+| **Consumer agentic AI** · Jio Platforms · *2026–now* | Voice-first AI assistant for India: multi-agent orchestration, agentic RAG, MCP tools, real-time voice, Responsible AI and DPDP compliance | Built for **400M+ users** in **12+ languages**; leading a **17-member** cross-platform team |
+| **GenAI master data** · Fortune 500 manufacturer · *2023–26* | Replace legacy MDM with a GenAI platform on AWS (LLM onboarding, RAG, MCP, guardrails, Spark) | **$1.5M+/yr** saved · **50M+ records, zero loss** · source onboarding **6+ weeks → 5 days** |
+| **Regulatory data** · Commonwealth Bank · *2022–23* | Move APRA reporting from SQL to Spark on a governed Snowflake platform | Nightly batch **4 h → 28 min** · late regulatory submissions **−30%** |
+| **Cloud data estate** · ANZ Bank · *2013–22* | Teradata → BigQuery migration with a 100+ person, five-vendor ecosystem | Query scan volume **−90%** · analyst queries **45 s → <3 s** · manual effort **−60%** |
 
-<sub>Opinions and code here are my own.</sub>
+---
+
+### Building in the open
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Vismriti](https://github.com/Malaya-kumar-swain/vismriti)
+**Consent, purpose limitation and right-to-erasure for RAG and AI agents, built for India's DPDP Act.**
+
+Purpose-bound retrieval · erasure that propagates across vector stores, caches, agent memory and logs · signed deletion certificates · Indian PII masking · MCP server.
+
+`Python` `RAG` `MCP` `Privacy engineering`
+
+</td>
+<td width="50%" valign="top">
+
+#### Next: Bharat Voice Eval
+**An open evaluation bench for Indian-language voice agents.**
+
+Task success under code-mixed speech, 2G/3G latency budgets and noisy audio: the conditions most benchmarks ignore and most of India lives in.
+
+`Voice AI` `Evaluation` `Indic languages`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Where I go deep
+
+**Agentic AI:** multi-agent orchestration (Google ADK), MCP, agentic RAG, LLM gateways and model routing<br>
+**Voice AI:** real-time pipelines (LiveKit, WebRTC), multilingual and code-mixed speech, low-bandwidth UX<br>
+**Responsible AI:** guardrails, prompt-injection defence, privacy by design, DPDP compliance, evaluation<br>
+**Data and cloud:** AWS (Bedrock, EMR), GCP (BigQuery), Spark, Snowflake, OpenSearch, Qdrant<br>
+**Delivery:** product strategy, SAFe portfolio planning, multi-vendor programmes, PMP
+
+---
+
+<sub>Career: Jio Platforms · Apptad · Commonwealth Bank of Australia · ANZ Bank · Accenture (Target) · IBM (Walmart) · HSBC · Effigent<br>
+Credentials: PMP · SAFe 6.0 POPM · CBAP · B.E. Information Technology<br>
+Views and code here are my own.</sub>
