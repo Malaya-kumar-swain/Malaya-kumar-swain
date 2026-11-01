@@ -54,16 +54,18 @@ Purpose-bound retrieval · erasure that propagates across vector stores, caches,
 </td>
 <td width="50%" valign="top">
 
-#### Next: Bharat Voice Eval
-**An open evaluation bench for Indian-language voice agents.**
+#### [Kavach-Eval](https://github.com/Malaya-kumar-swain/kavach-eval)
+**Red-team your AI assistant in the languages India actually speaks.**
 
-Task success under code-mixed speech, 2G/3G latency budgets and noisy audio: the conditions most benchmarks ignore and most of India lives in.
+Prompt-injection and data-leak probes in Hindi, Hinglish, Odia and Tamil · zero-width and look-alike obfuscation · indirect injection through RAG documents · judge-free scoring · a CI gate that blocks a release when any language leaks.
 
-`Voice AI` `Evaluation` `Indic languages`
+`Python` `AI security` `Red-teaming` `Indic languages`
 
 </td>
 </tr>
 </table>
+
+<sub>**Next:** Bharat Voice Eval, an open bench for Indian-language voice agents under code-mixed speech, 2G/3G latency and noisy audio.</sub>
 
 ---
 
