@@ -19,7 +19,7 @@ I lead the whole system: architecture, product, delivery, security and the teams
 
 ### How I lead
 
-| | |
+| Principle | In practice |
 |:--|:--|
 | **Trust is architecture, not a feature** | Guardrails, privacy and human-in-the-loop governance are designed in from layer one, never bolted on after launch. |
 | **Latency is a product decision** | A useful signal in two seconds on a 2G phone beats a perfect answer nobody waits for. |
