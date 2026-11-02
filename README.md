@@ -80,5 +80,5 @@ Prompt-injection and data-leak probes in Hindi, Hinglish, Odia and Tamil · zero
 ---
 
 <sub>Career: Jio Platforms · Apptad · Commonwealth Bank of Australia · ANZ Bank · Accenture (Target) · IBM (Walmart) · HSBC · Effigent<br>
-Credentials: PMP · SAFe 6.0 POPM · CBAP · B.E. Information Technology<br>
+Credentials: PMP · SAFe 6.0 POPM · B.E. Information Technology<br>
 Views and code here are my own.</sub>
