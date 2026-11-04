@@ -63,6 +63,18 @@ Prompt-injection and data-leak probes in Hindi, Hinglish, Odia and Tamil · zero
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [Agent-Pariksha](https://github.com/Malaya-kumar-swain/agent-pariksha)
+**Find out what your AI agent does when its tools fail.**
+
+Fault injection and safety checks for agents that take actions: lost responses that cause double payments, malformed data, hidden instructions, and a CI gate on reliability.
+
+`Python` `AI agents` `Reliability` `Testing`
+
+</td>
+</tr>
 </table>
 
 <sub>**Next:** Bharat Voice Eval, an open bench for Indian-language voice agents under code-mixed speech, 2G/3G latency and noisy audio.</sub>
